@@ -1,9 +1,5 @@
 # React
-<img src="https://res.cloudinary.com/dbvyvfe61/image/upload/v1619799241/Cicada%203301:%20Reinvented/MSTC_ffmo9v.png" width="10%">
-
-> This is a React Project for newcomers taking part in Hacktoberfest 2021. This repo is Maintained by MTSC. 
-
-> The project is a portfolio website which can be used by anyone to create their own portfolio by just changing the text.
+This is my portfolio developed React. 
 
 ---
 

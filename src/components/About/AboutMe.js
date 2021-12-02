@@ -9,12 +9,6 @@ function AboutMe() {
 					<h2 className="title">About Me</h2>
 					<div className="about-content">
 						<div className="column left">
-							{/* <img
-								id="profile-pic"
-								src="https://eshendetesia.com/images/patients-profile/df2ec810d9f7ff5296feba451a74ca2b.png"
-								alt="avatar"
-								height="150px"
-							/> */}
 						</div>
 						<div className="column right">
 							<div className="text">

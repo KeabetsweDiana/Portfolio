@@ -10,52 +10,8 @@
     "github": "https://github.com/KeabetsweDiana",
     "linkedin": "https://linkedin.com/in/keabetswe-mokwena-794bb81b6"
   },
-  "email": "abc@gmail.com",
-  "address": "India",
-  "project": [
-    {
-      "projectname": "ZaidiNet",
-      "techstack": "MERN",
-      "codelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "livelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "imageUrl": "https://cdn.dribbble.com/users/7265710/screenshots/16575011/media/0ad6122ebdac86b726a17bad2606f06d.jpg?compress=1&resize=1600x1200"
-    },
-    {
-      "projectname": "Paytime",
-      "techstack": "MERN",
-      "codelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "livelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "imageUrl": "https://cdn.dribbble.com/users/4031692/screenshots/16573047/media/cfacf6605a37fe9879641784d8f5300e.jpg?compress=1&resize=1600x1200"
-    },
-    {
-      "projectname": "Network",
-      "techstack": "MERN",
-      "codelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "livelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "imageUrl": "https://cdn.dribbble.com/users/5935617/screenshots/16573832/media/9f712534de432ea6fe7490cbb2dd8e96.jpg?compress=1&resize=1600x1200"
-    },
-    {
-      "projectname": "WIX",
-      "techstack": "MERN",
-      "codelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "livelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "imageUrl": "https://cdn.dribbble.com/users/2151039/screenshots/16572564/media/e22c8b07d708ab48404dc5ddf7530562.jpg?compress=1&resize=1600x1200"
-    },
-    {
-      "projectname": "ZenCloud",
-      "techstack": "MERN",
-      "codelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "livelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "imageUrl": "https://cdn.dribbble.com/users/4824889/screenshots/16575000/media/9b49ae29a682030f0aec512658b1f5ac.jpg?compress=1&resize=1600x1200"
-    },
-    {
-      "projectname": "Otam",
-      "techstack": "MERN",
-      "codelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "livelink": "https://github.com/MSTC-DA-IICT/react-portfolio/issues",
-      "imageUrl": "https://cdn.dribbble.com/users/623914/screenshots/14927729/media/4680c3d5b257498321b8b0f3cc7ac8b3.png?compress=1&resize=1600x1200"
-    }
-  ],
+  "email": "diana.k.mosehla@gmail.com",
+  "address": "323 Nana Sita Street, Pretoria Central",
 
   "creativeSkills_desc": "",
 
@@ -70,16 +26,13 @@
   ],
   "services": [
     {
-      "name": "Web Design / Web Development",
-      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa totam provident enim ullam quidem expedita, suscipit sit accusantium? "
+      "name": "Web Design / Web Development"
     },
     {
-      "name": "Front-End Development",
-      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa totam provident enim ullam quidem expedita, suscipit sit accusantium? "
+      "name": "Front-End Development"
     },
     {
-      "name": "UX / UI Design",
-      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa totam provident enim ullam quidem expedita, suscipit sit accusantium? "
+      "name": "UX / UI Design"
     }
   ]
 }
